@@ -15,7 +15,7 @@ const steps = [
   },
   {
     title: "Monitor & Follow Up",
-    desc: "Track health records and receive updates through the SevaSetu platform.",
+    desc: "Track health records and receive updates through the MediVerse platform.",
   },
 ];
 
@@ -26,7 +26,7 @@ export default function HowItWorks() {
         {/* Heading */}
         <div className="mb-6 max-w-3xl">
           <h2 className="text-2xl md:text-3xl font-bold text-gray-900">
-            How SevaSetu Works
+            How  MediVerse Works
           </h2>
           <p className="mt-2 text-gray-700">
             A simple step-by-step process designed to make healthcare services

@@ -99,7 +99,7 @@ export default function ContactForm() {
                 onChange={handleChange}
                 required
                 className="w-full border rounded-lg px-4 py-2 focus:ring-2 focus:ring-yellow-400 outline-none"
-                placeholder="+91 98765 43210"
+                placeholder="+91 9860894960"
               />
             </div>
           </div>

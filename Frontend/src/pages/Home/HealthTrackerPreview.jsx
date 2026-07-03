@@ -12,7 +12,7 @@ export default function HealthTrackerPreview() {
           </h2>
 
           <p className="mt-4 text-gray-700 leading-relaxed max-w-xl">
-            SevaSetu enables citizens to monitor key health parameters such as
+             MediVerse enables citizens to monitor key health parameters such as
             heart rate, blood pressure, and oxygen levels through integrated
             health tracking systems.
           </p>

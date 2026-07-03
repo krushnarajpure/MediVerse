@@ -20,9 +20,9 @@ export default function ContactInfo() {
     {
       icon: FaPhone,
       title: "Phone",
-      value: "+91 98765 43210",
+      value: "+91 9860894960",
       subtitle: "Mon – Fri, 10AM – 6PM",
-      href: "tel:+919876543210",
+      href: "tel:+919860894960",
     },
     {
       icon: FaMapMarkerAlt,
@@ -41,16 +41,16 @@ export default function ContactInfo() {
     {
       icon: FaLinkedin,
       title: "LinkedIn",
-      value: "linkedin.com/in/yourprofile",
+      value: "linkedin.com/in/krushna_rajpure",
       subtitle: "Connect with me",
-      href: "https://linkedin.com/in/yourprofile",
+      href: "https://linkedin.com/in/krushna_rajpure",
     },
     {
       icon: FaInstagram,
       title: "Instagram",
       value: "@yourhandle",
       subtitle: "Follow me",
-      href: "https://instagram.com/yourhandle",
+      href: "https://instagram.com/krushna_rajpure",
     },
     {
       icon: FaGlobe,

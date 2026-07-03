@@ -20,7 +20,7 @@ export default function CallToAction() {
                 <HeartPulse className="text-yellow-500" size={20} />
               </div>
               <span className="text-yellow-600 font-semibold tracking-wide text">
-                SevaSetu Healthcare
+                 MediVerse Healthcare
               </span>
             </div>
 

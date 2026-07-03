@@ -18,7 +18,7 @@ export default function Hero() {
           </h1>
 
           <p className="mt-5 text-gray-700 max-w-xl">
-            SevaSetu provides access to affordable medicines, online doctor
+             MediVerse provides access to affordable medicines, online doctor
             consultation, and basic health monitoring through a single
             government-supported digital platform.
           </p>

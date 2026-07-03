@@ -46,7 +46,7 @@ mongoose
       },
       deliveryAddress: {
         name: users[i % users.length].name || `User ${i + 1}`,
-        phone: users[i % users.length].phone || `98765432${i}`,
+        phone: users[i % users.length].phone || `9860894960${i}`,
         street: `Street ${i + 1}`,
         city: "Pune",
         state: "Maharashtra",

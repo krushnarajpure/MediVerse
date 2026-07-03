@@ -38,17 +38,17 @@ export default function Footer() {
   const socialLinks = [
     {
       name: "Instagram",
-      href: "https://www.instagram.com/krushna_kaale/",
+      href: "https://www.instagram.com/krushna_rajpure/",
       icon: <FaInstagram />,
     },
     {
       name: "LinkedIn",
-      href: "https://www.linkedin.com/in/krushnakaale",
+      href: "https://www.linkedin.com/in/krushna_rajpure",
       icon: <FaLinkedinIn />,
     },
     {
       name: "GitHub",
-      href: "https://github.com/krushnakaale",
+      href: "https://github.com/krushnarajpure93",
       icon: <FaGithub />,
     },
   ];
@@ -64,7 +64,7 @@ export default function Footer() {
               <div className="flex items-center gap-2">
                 <FaHeartbeat className="text-red-500 text-3xl" />
                 <h2 className="text-3xl font-bold text-white tracking-wide">
-                  SevaSetu
+                   MediVerse
                 </h2>
               </div>
             </NavLink>
@@ -181,7 +181,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm">
           <p className="text-gray-500">
             © {new Date().getFullYear()}{" "}
-            <span className="text-white font-medium">SevaSetu</span>. All rights
+            <span className="text-white font-medium">MediVerse</span>. All rights
             reserved. Made with ❤️ for healthier India.
           </p>
 
@@ -202,7 +202,7 @@ export default function Footer() {
         <div className="mt-6 text-center text-xs text-gray-500 max-w-4xl mx-auto">
           <p>
             ⚕️ <strong>Medical Disclaimer:</strong> The information provided on
-            SevaSetu is for informational purposes only and should not be
+             MediVerse is for informational purposes only and should not be
             considered as medical advice. Always consult with a qualified
             healthcare provider for medical concerns.
           </p>

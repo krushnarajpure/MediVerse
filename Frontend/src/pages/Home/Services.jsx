@@ -5,7 +5,7 @@ import React from "react";
 const services = [
   {
     title: "Medicines",
-    desc: "Order affordable medicines from verified local pharmacies through the SevaSetu platform.",
+    desc: "Order affordable medicines from verified local pharmacies through the  MediVerse platform.",
     icon: Pill,
     link: "/medicines",
   },
@@ -30,7 +30,7 @@ export default function Services() {
         {/* Heading */}
         <div className="mb-6 max-w-7xl">
           <h2 className="text-2xl md:text-3xl font-bold text-gray-900">
-            Healthcare Services Available on SevaSetu
+            Healthcare Services Available on MediVerse
           </h2>
           <p className="mt-2 text-gray-700">
             A unified digital platform providing essential healthcare services

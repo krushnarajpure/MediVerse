@@ -12,7 +12,7 @@ mongoose
   .catch((err) => console.log(err));
 
 async function createAdmin() {
-  const password = "krushnakaale"; // change if you want
+  const password = "krushnarajpure"; // change if you want
   const hashedPassword = await bcrypt.hash(password, 10);
 
   const adminExists = await User.findOne({ email: "admin@example.com" });

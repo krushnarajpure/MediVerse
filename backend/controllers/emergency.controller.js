@@ -98,7 +98,7 @@ exports.getNearbyHospitals = asyncHandler(async (req, res) => {
       id: 2,
       name: "Apollo Hospital",
       address: "Station Road, Near Railway Station",
-      phone: "+91-9876543210",
+      phone: "+91-9860894960",
       distance: "5.0 km",
       rating: 4.8,
       emergency_services: true,
