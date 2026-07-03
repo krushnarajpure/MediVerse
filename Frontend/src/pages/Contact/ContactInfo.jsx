@@ -48,7 +48,7 @@ export default function ContactInfo() {
     {
       icon: FaInstagram,
       title: "Instagram",
-      value: "@yourhandle",
+      value: "@Krushna_rajpure",
       subtitle: "Follow me",
       href: "https://instagram.com/krushna_rajpure",
     },
