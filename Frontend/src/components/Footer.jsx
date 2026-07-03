@@ -43,7 +43,7 @@ export default function Footer() {
     },
     {
       name: "LinkedIn",
-      href: "https://www.linkedin.com/in/krushna_rajpure",
+      href: "https://www.linkedin.com/krushna_rajpure",
       icon: <FaLinkedinIn />,
     },
     {

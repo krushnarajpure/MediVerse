@@ -41,9 +41,9 @@ export default function ContactInfo() {
     {
       icon: FaLinkedin,
       title: "LinkedIn",
-      value: "linkedin.com/in/krushna_rajpure",
+      value: "linkedin.com",
       subtitle: "Connect with me",
-      href: "https://linkedin.com/in/krushna_rajpure",
+      href: "https://linkedin.com/krushna_rajpure",
     },
     {
       icon: FaInstagram,

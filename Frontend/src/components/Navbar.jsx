@@ -28,7 +28,7 @@ export default function Navbar({ user, setUser }) {
     <nav className="bg-gray-900 shadow-md sticky top-0 z-50">
       <div className="max-w-7xl mx-auto px-4 h-16 flex justify-between items-center">
         <NavLink to="/" className="text-3xl font-bold text-yellow-400">
-          Seva<span className="text-white">Setu</span>
+          Medi<span className="text-white">Verse</span>
         </NavLink>
 
         {/* Desktop Links */}
