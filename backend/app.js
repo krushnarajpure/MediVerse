@@ -15,6 +15,7 @@ const appointmentRoutes = require("./routes/appointment.routes");
 const hospitalRoutes = require("./routes/hospital.routes");
 const busBookingRoutes = require("./routes/busBooking.routes");
 const hotelBookingRoutes = require("./routes/hotelBooking.routes");
+const contactRoutes = require("./routes/contact.routes");
 
 // Create Express app
 const app = express();
@@ -64,6 +65,7 @@ app.use("/api/appointments", appointmentRoutes);
 app.use("/api/hospitals", hospitalRoutes);
 app.use("/api/bus-bookings", busBookingRoutes);
 app.use("/api/hotel-bookings", hotelBookingRoutes);
+app.use("/api/contact", contactRoutes);
 
 /* =====================================================
    HEALTH CHECK
